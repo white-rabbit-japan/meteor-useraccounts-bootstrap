@@ -1,7 +1,7 @@
 Package.describe({
     summary: "Accounts Templates styled for Twitter Bootstrap.",
     version: "1.8.1",
-    name: "useraccounts:bootstrap",
+    name: "whiterabbit:meteor-useraccounts-bootstrap",
     git: "https://github.com/meteor-useraccounts/bootstrap.git",
 });
 
